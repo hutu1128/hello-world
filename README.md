@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+today ,i use this github
+linux is very important
+Qt is very important
